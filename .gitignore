@@ -1,0 +1,15 @@
+# Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build files
+*.csproj
+*.sln
