@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\compumarts\\downloads\\unity projects\\my project (1)\\assets\\skrips\\escapemenutoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\skrips\\escapemenutoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\compumarts\\downloads\\unity projects\\my project (1)\\assets\\skrips\\graphicssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\skrips\\graphicssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\assets\\skrips\\audiosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\skrips\\audiosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\assets\\skrips\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\skrips\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\assets\\skrips\\toggleobjectives1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\skrips\\toggleobjectives1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\ToggleObjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Skrips\\ToggleObjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscapeMenuToggle.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\EscapeMenuToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\EscapeMenuToggle.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\EscapeMenuToggle.cs",
+              "RelativeToolTip": "Assets\\Skrips\\EscapeMenuToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:27:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphicsSettings.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\GraphicsSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\GraphicsSettings.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\GraphicsSettings.cs",
+              "RelativeToolTip": "Assets\\Skrips\\GraphicsSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:18:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioSettings.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\AudioSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\AudioSettings.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\AudioSettings.cs",
+              "RelativeToolTip": "Assets\\Skrips\\AudioSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:04:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Skrips\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T12:57:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToggleObjectives1.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\ToggleObjectives1.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\ToggleObjectives1.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\ToggleObjectives1.cs",
+              "RelativeToolTip": "Assets\\Skrips\\ToggleObjectives1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T11:26:45.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToggleObjectives.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\ToggleObjectives.cs",
+              "RelativeDocumentMoniker": "Assets\\Skrips\\ToggleObjectives.cs",
+              "ToolTip": "C:\\Users\\COMPUMARTS\\Downloads\\unity projects\\My project (1)\\Assets\\Skrips\\ToggleObjectives.cs",
+              "RelativeToolTip": "Assets\\Skrips\\ToggleObjectives.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T11:26:08.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
